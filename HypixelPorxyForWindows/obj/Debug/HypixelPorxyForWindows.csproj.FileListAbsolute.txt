@@ -1,0 +1,6 @@
+D:\Project\HypixelPorxyForWindows\bin\Debug\HypixelPorxyForWindows.exe
+D:\Project\HypixelPorxyForWindows\bin\Debug\HypixelPorxyForWindows.pdb
+D:\Project\HypixelPorxyForWindows\obj\Debug\HypixelPorxyForWindows.csprojAssemblyReference.cache
+D:\Project\HypixelPorxyForWindows\obj\Debug\HypixelPorxyForWindows.csproj.CoreCompileInputs.cache
+D:\Project\HypixelPorxyForWindows\obj\Debug\HypixelPorxyForWindows.exe
+D:\Project\HypixelPorxyForWindows\obj\Debug\HypixelPorxyForWindows.pdb

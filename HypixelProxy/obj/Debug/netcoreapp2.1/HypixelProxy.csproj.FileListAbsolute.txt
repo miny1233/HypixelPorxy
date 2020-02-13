@@ -1,0 +1,11 @@
+D:\Project\HypixelProxy\bin\Debug\netcoreapp2.1\HypixelProxy.deps.json
+D:\Project\HypixelProxy\bin\Debug\netcoreapp2.1\HypixelProxy.runtimeconfig.json
+D:\Project\HypixelProxy\bin\Debug\netcoreapp2.1\HypixelProxy.runtimeconfig.dev.json
+D:\Project\HypixelProxy\bin\Debug\netcoreapp2.1\HypixelProxy.dll
+D:\Project\HypixelProxy\bin\Debug\netcoreapp2.1\HypixelProxy.pdb
+D:\Project\HypixelProxy\obj\Debug\netcoreapp2.1\HypixelProxy.csprojAssemblyReference.cache
+D:\Project\HypixelProxy\obj\Debug\netcoreapp2.1\HypixelProxy.csproj.CoreCompileInputs.cache
+D:\Project\HypixelProxy\obj\Debug\netcoreapp2.1\HypixelProxy.AssemblyInfoInputs.cache
+D:\Project\HypixelProxy\obj\Debug\netcoreapp2.1\HypixelProxy.AssemblyInfo.cs
+D:\Project\HypixelProxy\obj\Debug\netcoreapp2.1\HypixelProxy.dll
+D:\Project\HypixelProxy\obj\Debug\netcoreapp2.1\HypixelProxy.pdb
