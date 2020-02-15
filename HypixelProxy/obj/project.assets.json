@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\HypixelProxy\\HypixelProxy.csproj",
+      "projectUniqueName": "D:\\Project\\HypixelProxy\\HypixelProxy\\HypixelProxy.csproj",
       "projectName": "HypixelProxy",
-      "projectPath": "D:\\Project\\HypixelProxy\\HypixelProxy.csproj",
+      "projectPath": "D:\\Project\\HypixelProxy\\HypixelProxy\\HypixelProxy.csproj",
       "packagesPath": "C:\\Users\\15967\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\HypixelProxy\\obj\\",
+      "outputPath": "D:\\Project\\HypixelProxy\\HypixelProxy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

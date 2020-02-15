@@ -48,7 +48,7 @@ namespace HypixelProxy
         {
            
             int size;
-            byte[] vs = new byte[8 * 1024];            
+            byte[] vs = new byte[8 * 1024 * 1024];            
             while (true)
             {
                 try
@@ -73,7 +73,7 @@ namespace HypixelProxy
         public static void Receive()
         {
             int size;
-            byte[] vs = new byte[8 * 1024];          
+            byte[] vs = new byte[8 * 1024 * 1024];          
             while (true)
             {                
                 try
